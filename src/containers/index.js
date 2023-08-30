@@ -1,0 +1,17 @@
+export { default as Header } from "./Header";
+export { default as Navbar } from "./Navbar";
+export { default as NavDropdown } from "./NavDropdown";
+export { default as Card } from "./Card";
+export { default as Gallery } from "./Gallery";
+export { default as DetailsList } from "./DetailsList";
+export { default as Description } from "./Description";
+export { default as Share } from "./Share";
+export { default as Location } from "./Location";
+export { default as ContactSide } from "./ContactSide";
+export { default as ContactMain } from "./ContactMain";
+export { default as Calculate } from "./Calculate";
+export { default as Form } from "./Form";
+export { default as Offers } from "./Offers";
+export { default as Articles } from "./Articles";
+export { default as Footer } from "./Footer";
+export { default as FooterDropdown } from "./FooterDropdown";
