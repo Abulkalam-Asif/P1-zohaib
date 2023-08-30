@@ -1,6 +1,6 @@
 import React from "react";
 import ReactModal from "react-modal";
-import "../app.css";
+import "../App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faX } from "@fortawesome/free-solid-svg-icons";
 
