@@ -2,7 +2,10 @@ import { Carousel } from "flowbite-react";
 
 export default function GalleryCarousel({ images }) {
   return (
-    <Carousel slide={false} className="h-full m-10 bg-blue-300 md:m-0">
+    <Carousel
+      leftControl={false}
+      slide={false}
+      className="h-full w-auto m-10 bg-black md:m-0">
       {images.map((image, index) => {
         return (
           <img
